@@ -30,6 +30,13 @@
                "tradeRequest": "Hello, Uramia is open for trade",
          
          
-               "outerColor": []
+               "outerColor": [252, 186, 3]
          
-               "innerColor": []
+               "innerColor": [71, 138, 8]
+
+  
+               "cities": ["Uramia","Osim","Toloy","Rilic","Amenin","Yib","Bosnil","Heerns","Amumb","Ayu","Clici"],
+
+       },
+
+]
