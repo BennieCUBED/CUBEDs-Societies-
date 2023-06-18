@@ -10,4 +10,26 @@
          
                "startBias": ["Plains"],
 
-               "
+               "preferredVictoryType": "Domination",
+         
+               
+               "startIntroPart1": "Uramia, one of the first societies, is an Empire starting within the plains, know for its military victories",
+         
+               "startIntroPart2": "Will you build a civilisation that can stand the test of time?",
+         
+         
+               "declearingWar": "You stand infront of our armies, so you know what i must do!",
+         
+               "attacked": "Hah, your armies cannot stand against the city of Uramia!",
+         
+               "defeated": "oh... i never thought i'd see the day...",
+         
+               "introduction": "Welcome traveler, what city do you come from?",
+         
+                
+               "tradeRequest": "Hello, Uramia is open for trade",
+         
+         
+               "outerColor": []
+         
+               "innerColor": []
